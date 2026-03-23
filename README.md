@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erdem Barut</h1>
+<h1 align="center">Hi 👋, I'm Erdem</h1>
 <h3 align="center">A person from Türkiye who wants to become a Full-Stack developer.</h3>
 
 <p align="center">
@@ -6,11 +6,11 @@
 </p>
 
 - 💬 Ask me about **Python, C#**  
-- 📫 How to reach me **erdembarut1641@gmail.com**
+- 📫 How to reach me **luroxdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/erdembarut01" target="_blank" rel="noreferrer">
+  <a href="https://instagram.com/luroxerdem" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erdembarutlx" height="30" width="40" />
   </a>
 </p>
